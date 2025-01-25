@@ -1,3 +1,29 @@
+body {
+    width: 100%;
+    margin: 0;
+}
+
+header {
+    background-color: grey;
+    display: flex;
+    /* Enable Flexbox */
+    justify-content: center;
+    /* Center horizontally */
+
+}
+
+footer {
+    background-color: grey;
+    display: flex;
+    /* Enable Flexbox */
+    justify-content: center;
+    /* Center horizontally */
+}
+
 .hello {
     color: blue;
+}
+
+p {
+    text-align: center;
 }
